@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **chaturvedisiddharth008@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:**  GetSetInterview
+- 🔭 **I’m currently working on:**  SkillSync
 - 🌱 **I’m currently learning:** DSA, NEON & DRIZZLER
 - 📫 **How to reach me:** chaturvedisiddharth008@gmail.com
 - ⚡ **Fun fact:** The first website ever created is still online! It’s a simple page titled "World Wide Web" created by Tim Berners-Lee in 1991.
